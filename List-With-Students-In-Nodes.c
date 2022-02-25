@@ -1,5 +1,5 @@
 /*************************************************************************
-        Copyright © 2021 Konstantinidis Konstantinos
+        Copyright Â© 2021 Konstantinidis Konstantinos
 
 	Licensed under the Apache License, Version 2.0 (the "License");
 	you may not use this file except in compliance with the License.
@@ -54,7 +54,7 @@ main(){
     CreateLList(&List);
 
     while(students<=0){
-        printf("Insert number of students: "); //Get the amount of the students that will be inserted afterwards as entries in the nodes
+        printf("Insert number of students: "); //Get the amount of students that will be inserted afterwards as entries in the nodes
         scanf("%d",&students);
         if(students<=0)
             printf("Students cannot be less than 1\n"); //There should be at least 1 student
